@@ -1,7 +1,6 @@
-Hello World .
-this is my first commit.
-this line edited github editor.
-send line added to github editor.
-this is added via local repository
-this is added via remote repository
-this is added after conflict
+devopslab
+Hello World
+This is my first time workinh with git
+This is added via git hub editor
+This is added through branch featurea
+This is added via remote repository
